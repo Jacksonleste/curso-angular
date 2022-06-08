@@ -1,0 +1,28 @@
+import { Component, OnInit } from '@angular/core';
+
+@Component({
+  selector: 'app-emitter',
+  templateUrl: './emitter.component.html',
+  styleUrls: ['./emitter.component.css']
+})
+export class EmitterComponent implements OnInit {
+
+  myNumber: Number = 0;
+
+  constructor() { }
+
+  ngOnInit(): void {
+  }
+
+
+  number (){
+    while (1 == 1) {
+      this.myNumber = Math.floor(Math.random() * 20);
+    }
+  }
+
+  onChangeNumber(){
+    this.myNumber = Math.floor(Math.random() * 20);
+  }
+
+}
