@@ -6,3 +6,8 @@ ul{
    flex-wrap: wrap;
     display: flex;
 }
+
+button {
+    font-size: 1rem;
+    padding: .2rem .5rem;
+}
