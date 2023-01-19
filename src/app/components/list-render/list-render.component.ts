@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Carro } from 'src/app/Cars';
+import { ListService } from 'src/app/service/list.service';
 
 @Component({
   selector: 'app-list-render',
@@ -27,13 +28,17 @@ export class ListRenderComponent implements OnInit {
 
   carDetails = '';
 
-  constructor() { }
+  constructor(private listService:ListService) { }
 
   ngOnInit(): void {
   }
 
   ShowYear(carro:Carro){
     this.carDetails = `O Veículo ${carro.fabricacao} ${carro.modelo} foi Fabricado no ano de ${carro.ano}`
+  }
+
+  removeCar(car:Carro){
+    this.cars = this.listService.remove(this.cars, car)
   }
 
 }
