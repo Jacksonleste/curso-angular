@@ -8,7 +8,7 @@ import { __importDefault } from 'tslib';
 })
 export class ParentDataComponent implements OnInit {
 
-  @Input() name: String = '';
+  @Input() name: String = 'Jackson';
 
   @Input() userData! :{
     age: Number,
