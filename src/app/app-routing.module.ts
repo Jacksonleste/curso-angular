@@ -5,6 +5,7 @@ import { EmitterComponent } from './components/emitter/emitter.component';
 import { EventosComponent } from './components/eventos/eventos.component';
 import { FirstComponentComponent } from './components/first-component/first-component.component';
 import { IfRenderComponent } from './components/if-render/if-render.component';
+import { ItemDetailComponent } from './components/item-detail/item-detail.component';
 import { ListRenderComponent } from './components/list-render/list-render.component';
 import { ParentDataComponent } from './components/parent-data/parent-data.component';
 import { PipeComponent } from './components/pipe/pipe.component';
@@ -20,6 +21,7 @@ const routes: Routes = [
   {path: 'if-render', component: IfRenderComponent},
   {path: 'parent-data', component: ParentDataComponent},
   {path: 'pipe', component: PipeComponent},
+  {path: 'list/:id', component: ItemDetailComponent},
 ];
 
 @NgModule({

@@ -12,19 +12,19 @@
         { "id": 9, "name": "Caster", "type": "Aligator", "age": "15"}
     ],
     "cars": [
-        {"modelo": "Uno", "fabricacao": "Fiat", "ano": 2021},
-        {"modelo": "Gol", "fabricacao": "Volkswagen", "ano": 2004},
-        {"modelo": "Santana", "fabricacao": "Volkswagen", "ano": 2003},
-        {"modelo": "Ka", "fabricacao": "Ford", "ano": 2005},
-        {"modelo": "Toro", "fabricacao": "Fiat", "ano": 2018},
-        {"modelo": "Hilux", "fabricacao": "Toyota", "ano": 2012},
-        {"modelo": "S10", "fabricacao": "Chavrolet", "ano": 2006},
-        {"modelo": "Fox", "fabricacao": "Volkswagen", "ano": 2012},
-        {"modelo": "Ranger", "fabricacao": "Ford", "ano": 2013},
-        {"modelo": "Eco Sport", "fabricacao": "Ford", "ano": 2020},
-        {"modelo": "Palio", "fabricacao": "Fiat", "ano": 2015},
-        {"modelo": "Siena", "fabricacao": "Fiat", "ano": 2022},
-        {"modelo": "Parati", "fabricacao": "Volkswagen", "ano": 2001}
+        { "id": 0, "modelo": "Uno", "fabricacao": "Fiat", "ano": 2021},
+        { "id": 1, "modelo": "Gol", "fabricacao": "Volkswagen", "ano": 2004},
+        { "id": 2, "modelo": "Santana", "fabricacao": "Volkswagen", "ano": 2003},
+        { "id": 3, "modelo": "Ka", "fabricacao": "Ford", "ano": 2005},
+        { "id": 4, "modelo": "Toro", "fabricacao": "Fiat", "ano": 2018},
+        { "id": 5, "modelo": "Hilux", "fabricacao": "Toyota", "ano": 2012},
+        { "id": 6, "modelo": "S10", "fabricacao": "Chavrolet", "ano": 2006},
+        { "id": 7, "modelo": "Fox", "fabricacao": "Volkswagen", "ano": 2012},
+        { "id": 8, "modelo": "Ranger", "fabricacao": "Ford", "ano": 2013},
+        { "id": 9, "modelo": "Eco Sport", "fabricacao": "Ford", "ano": 2020},
+        { "id": 10, "modelo": "Palio", "fabricacao": "Fiat", "ano": 2015},
+        { "id": 11, "modelo": "Siena", "fabricacao": "Fiat", "ano": 2022},
+        { "id": 12, "modelo": "Parati", "fabricacao": "Volkswagen", "ano": 2001}
     ]
 
 }
