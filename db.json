@@ -1,30 +1,138 @@
 {
-    "animals": [
-        { "id": 0, "name": "Caramelo", "type": "Dog", "age": "2"},
-        { "id": 1, "name": "Pitoco", "type": "Dog", "age": "5"},
-        { "id": 2, "name": "Thor", "type": "Cat", "age": "1"},
-        { "id": 3, "name": "Moony", "type": "Cat", "age": "1"},
-        { "id": 4, "name": "Bob", "type": "Horse", "age": "7"},
-        { "id": 5, "name": "Peteca", "type": "Bird", "age": "1"},
-        { "id": 6, "name": "Paco", "type": "Hamster", "age": "1"},
-        { "id": 7, "name": "Alfonso", "type": "Horse", "age": "5"},
-        { "id": 8, "name": "Bilu", "type": "Dog", "age": "12"},
-        { "id": 9, "name": "Caster", "type": "Aligator", "age": "15"}
-    ],
-    "cars": [
-        { "id": 0, "modelo": "Uno", "fabricacao": "Fiat", "ano": 2021},
-        { "id": 1, "modelo": "Gol", "fabricacao": "Volkswagen", "ano": 2004},
-        { "id": 2, "modelo": "Santana", "fabricacao": "Volkswagen", "ano": 2003},
-        { "id": 3, "modelo": "Ka", "fabricacao": "Ford", "ano": 2005},
-        { "id": 4, "modelo": "Toro", "fabricacao": "Fiat", "ano": 2018},
-        { "id": 5, "modelo": "Hilux", "fabricacao": "Toyota", "ano": 2012},
-        { "id": 6, "modelo": "S10", "fabricacao": "Chavrolet", "ano": 2006},
-        { "id": 7, "modelo": "Fox", "fabricacao": "Volkswagen", "ano": 2012},
-        { "id": 8, "modelo": "Ranger", "fabricacao": "Ford", "ano": 2013},
-        { "id": 9, "modelo": "Eco Sport", "fabricacao": "Ford", "ano": 2020},
-        { "id": 10, "modelo": "Palio", "fabricacao": "Fiat", "ano": 2015},
-        { "id": 11, "modelo": "Siena", "fabricacao": "Fiat", "ano": 2022},
-        { "id": 12, "modelo": "Parati", "fabricacao": "Volkswagen", "ano": 2001}
-    ]
-
+  "animals": [
+    {
+      "id": 0,
+      "name": "Caramelo",
+      "type": "Dog",
+      "age": "2"
+    },
+    {
+      "id": 1,
+      "name": "Pitoco",
+      "type": "Dog",
+      "age": "5"
+    },
+    {
+      "id": 2,
+      "name": "Thor",
+      "type": "Cat",
+      "age": "1"
+    },
+    {
+      "id": 3,
+      "name": "Moony",
+      "type": "Cat",
+      "age": "1"
+    },
+    {
+      "id": 4,
+      "name": "Bob",
+      "type": "Horse",
+      "age": "7"
+    },
+    {
+      "id": 5,
+      "name": "Peteca",
+      "type": "Bird",
+      "age": "1"
+    },
+    {
+      "id": 6,
+      "name": "Paco",
+      "type": "Hamster",
+      "age": "1"
+    },
+    {
+      "id": 7,
+      "name": "Alfonso",
+      "type": "Horse",
+      "age": "5"
+    },
+    {
+      "id": 8,
+      "name": "Bilu",
+      "type": "Dog",
+      "age": "12"
+    },
+    {
+      "id": 9,
+      "name": "Caster",
+      "type": "Aligator",
+      "age": "15"
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "modelo": "Gol",
+      "fabricacao": "Volkswagen",
+      "ano": 2004
+    },
+    {
+      "id": 2,
+      "modelo": "Santana",
+      "fabricacao": "Volkswagen",
+      "ano": 2003
+    },
+    {
+      "id": 3,
+      "modelo": "Ka",
+      "fabricacao": "Ford",
+      "ano": 2005
+    },
+    {
+      "id": 4,
+      "modelo": "Toro",
+      "fabricacao": "Fiat",
+      "ano": 2018
+    },
+    {
+      "id": 5,
+      "modelo": "Hilux",
+      "fabricacao": "Toyota",
+      "ano": 2012
+    },
+    {
+      "id": 6,
+      "modelo": "S10",
+      "fabricacao": "Chavrolet",
+      "ano": 2006
+    },
+    {
+      "id": 7,
+      "modelo": "Fox",
+      "fabricacao": "Volkswagen",
+      "ano": 2012
+    },
+    {
+      "id": 8,
+      "modelo": "Ranger",
+      "fabricacao": "Ford",
+      "ano": 2013
+    },
+    {
+      "id": 9,
+      "modelo": "Eco Sport",
+      "fabricacao": "Ford",
+      "ano": 2020
+    },
+    {
+      "id": 10,
+      "modelo": "Palio",
+      "fabricacao": "Fiat",
+      "ano": 2015
+    },
+    {
+      "id": 11,
+      "modelo": "Siena",
+      "fabricacao": "Fiat",
+      "ano": 2022
+    },
+    {
+      "id": 12,
+      "modelo": "Parati",
+      "fabricacao": "Volkswagen",
+      "ano": 2001
+    }
+  ]
 }
